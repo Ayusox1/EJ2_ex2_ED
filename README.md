@@ -2,6 +2,8 @@
 <h4>
 
 <li>git clone https://github.com/adwinmbd/astro-blog-template
+<li>![image](https://user-images.githubusercontent.com/126698801/226983932-fae0ea07-091d-4505-bdc9-ddda37212448.png)</li>
+
 <li>git status</li>
 <li>git add .</li>
 <li>git branch</li>
