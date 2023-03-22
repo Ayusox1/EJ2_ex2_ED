@@ -9,7 +9,7 @@
 <li>git log</li>
 <li>echo "Hola" > .gitgnore</li>
 <li>git status</li>
-<li>git commit -a -m "Modificado archivo gitgnore"</li>
+<li>git commit -a -m "Modificar archivo"</li>
 <li>git commit -m "Mario Jurado Ayuso"</li>
 <li>git branch -a</li>
 <li>git branch dev1</li>
